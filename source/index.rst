@@ -7,6 +7,7 @@ Sphinx 学习笔记
 
    build_readthedocs
    edit_tips
+   blog
 
 
 偶然间发现Sphinx，这个用Python构建的文档库是一个非常好用的东西，有许多可以研究的地方，
