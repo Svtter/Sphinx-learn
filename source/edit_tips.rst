@@ -13,9 +13,11 @@
 + https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html
 + http://www.cnblogs.com/seayxu/p/5603876.html
 
-插入代码::
+插入代码
+^^^^^^^
 
-  插入代码是通过在第一行末尾加上 :: ，然后第二行开始缩进。
+1. 插入代码是通过在第一行末尾加上 :: ，然后第二行开始缩进。
+2. 使用 ``.. code:: python`` ，第二行缩进
 
 
 反双引号使用的时候，要注意不要在反双引号两边留下空格。
