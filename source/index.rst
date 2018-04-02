@@ -25,3 +25,9 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+LICENSE
+=======
+
+https://creativecommons.org/licenses/by-nc-sa/3.0/cn/
