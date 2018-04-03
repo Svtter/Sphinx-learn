@@ -45,3 +45,8 @@ Sphinx自动构建
 
 https://nbsphinx.readthedocs.io/en/0.3.2/usage.html#Watching-for-Changes-with-sphinx-autobuild
 
+
+Sphinx使用ipython-notebook
+----------
+
+https://ipython.org/ipython-doc/rel-0.13.2/development/ipython_directive.html
