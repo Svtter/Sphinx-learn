@@ -25,6 +25,11 @@ Sphinx 是一个文档构建应用（系统），可以从源代码构建文档�
     pip install sphinx
 
 
+参考
+-----
+
+1. https://doclikecode.readthedocs.io/zh_CN/latest/1_sphinx/sphinx101.html
+
 
 Indices and tables
 ==================
